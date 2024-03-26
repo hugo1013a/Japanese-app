@@ -14,3 +14,22 @@ th, td {
   height: 50px;
   font-size: 24px;
 }
+
+.next-button-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.next-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.next-button:hover {
+  background-color: #45a049;
+}
