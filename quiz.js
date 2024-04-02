@@ -11,6 +11,46 @@ const questions = [
       question: 'Which of the following option has the meaning of "left"?',
       options: ['レフト', 'レフ', 'レフド'],
       answer: 0 // Index of the correct answer
+    },
+    {
+      question: 'Which of the following is the correct spelling of "volleyball"?',
+      options: ['ハイキュー', 'ハイキユ', 'ハイキョー'],
+      answer: 0 // Index of the correct answer
+    },
+    {
+      question: 'Which of the following option has the meaning of "left"?',
+      options: ['レフト', 'レフ', 'レフド'],
+      answer: 0 // Index of the correct answer
+    },
+    {
+      question: 'Which of the following is the correct spelling of "volleyball"?',
+      options: ['ハイキュー', 'ハイキユ', 'ハイキョー'],
+      answer: 0 // Index of the correct answer
+    },
+    {
+      question: 'Which of the following option has the meaning of "left"?',
+      options: ['レフト', 'レフ', 'レフド'],
+      answer: 0 // Index of the correct answer
+    },
+    {
+      question: 'Which of the following is the correct spelling of "volleyball"?',
+      options: ['ハイキュー', 'ハイキユ', 'ハイキョー'],
+      answer: 0 // Index of the correct answer
+    },
+    {
+      question: 'Which of the following option has the meaning of "left"?',
+      options: ['レフト', 'レフ', 'レフド'],
+      answer: 0 // Index of the correct answer
+    },
+    {
+      question: 'Which of the following is the correct spelling of "volleyball"?',
+      options: ['ハイキュー', 'ハイキユ', 'ハイキョー'],
+      answer: 0 // Index of the correct answer
+    },
+    {
+      question: 'Which of the following option has the meaning of "left"?',
+      options: ['レフト', 'レフ', 'レフド'],
+      answer: 0 // Index of the correct answer
     }
   ];
   
