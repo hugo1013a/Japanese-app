@@ -1,0 +1,35 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+.vowel-button {
+  width: 100px;
+  height: 50px;
+  font-size: 16px;
+}
+
+.next-button-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.next-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.next-button:hover {
+  background-color: #45a049;
+}
