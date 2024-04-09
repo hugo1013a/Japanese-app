@@ -10,9 +10,9 @@ th, td {
 }
 
 .vowel-button {
-  width: 50px;
+  width: 100px;
   height: 50px;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 .next-button-container {
@@ -31,5 +31,24 @@ th, td {
 }
 
 .next-button:hover {
+  background-color: #45a049;
+}
+
+.back-button-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.back-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.back-button:hover {
   background-color: #45a049;
 }
